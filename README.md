@@ -1,0 +1,1 @@
+Até o momento, as aulas sobre algoritmos foram bem tranquilas pois ja tenho um breve conhecimento, porém as de GIT são novidade para mim.
